@@ -1,2 +1,3 @@
 imports:
   - cloud.ru/root.yaml
+  - vmwareonprem/root.yaml
